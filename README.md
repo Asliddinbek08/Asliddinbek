@@ -1,4 +1,4 @@
-# StartHub
+# Startup Hub
 
 O‘zbekiston startaplari uchun profil, rivojlanish tarixi va investorlar bilan tanishuv interfeysi.
 
@@ -25,4 +25,4 @@ Bu frontend prototipi. Yangi profillar, saqlanganlar va qaydlar faqat joriy brau
 
 Haqiqiy ko‘p foydalanuvchili xizmatga aylantirish uchun autentifikatsiya, server ma’lumotlar bazasi, faylga ruxsat nazorati va xabar yuborish xizmati kerak.
 
-Debocha bo‘limidagi materiallar rasmiy Debocha darslari emas; StartHub uchun tuzilgan namunalar. Rasmiy platforma: https://debocha.uz.
+Debocha bo‘limidagi materiallar rasmiy Debocha darslari emas; Startup Hub uchun tuzilgan namunalar. Rasmiy platforma: https://debocha.uz.
